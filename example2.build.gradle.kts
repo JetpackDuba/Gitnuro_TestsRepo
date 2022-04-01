@@ -16,6 +16,7 @@ plugins {
 val projectVersion = "0.1.0"
 val name = "Gitnuro"
 
+// Lore ipsum
 group = "com.jetpackduba"
 version = projectVersion
 
